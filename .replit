@@ -1,2 +1,2 @@
 language = "bash"
-run = "node microservices/threads/img/main.js"
+run = "node loopback_REST/server.js"
