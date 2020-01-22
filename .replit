@@ -1,2 +1,2 @@
 language = "bash"
-run = "node loopback_REST/server.js"
+run = "node tricky_questions/1.js"
